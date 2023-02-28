@@ -1,0 +1,6 @@
+termcolor
+pyfiglet
+pystyle
+colorama
+emoji
+requests
