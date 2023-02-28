@@ -1,6 +1,6 @@
-termcolor
-pyfiglet
-pystyle
-colorama
-emoji
-requests
+pip install termcolor
+pip install pyfiglet
+pip install pystyle
+pip install colorama
+pip install emoji
+pip install requests
